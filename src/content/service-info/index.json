@@ -1,0 +1,61 @@
+[
+  {
+    "id": "main",
+    "brandName": "iptv--belgique.be",
+    "tagline": "Votre fenêtre ouverte sur le divertissement de la télé belge avec iptv belgique.",
+    "description": "Découvrez iptv-belgique.be, votre portail vers les meilleures chaînes belges et internationales. Profitez d'une expérience de visionnage sans pareille avec une qualité irréprochable à portée de main.",
+    "channelCount": 55000,
+    "vodCount": 90000,
+    "supportEmail": "streamonlinever@gmail.com",
+    "primaryColor": "#3B82F6",
+    "secondaryColor": "#1E40AF",
+    "siteUrl": "https://iptv-belgique-be.pages.dev",
+    "features": [
+      {
+        "title": "Qualité HD Exceptionnelle",
+        "description": "Bénéficiez d'une image cristalline avec notre qualité haute définition, pour transformer chaque visionnage en une expérience immersive et saisissante.",
+        "icon": "Tv"
+      },
+      {
+        "title": "Variété de Contenus",
+        "description": "Explorez une multitude de chaînes et de contenus variés, adaptés à tous les goûts et à toute la famille, des séries aux documentaires.",
+        "icon": "Film"
+      },
+      {
+        "title": "Sécurité Maximale",
+        "description": "Votre sécurité est notre priorité. Notre système utilise des technologies avancées pour protéger vos informations personnelles à tout instant.",
+        "icon": "Shield"
+      },
+      {
+        "title": "Accès Mondial",
+        "description": "Restez connecté où que vous soyez. Notre service est accessible dans le monde entier, pour que vous ne manquiez rien de l'actualité belge.",
+        "icon": "Globe"
+      },
+      {
+        "title": "Disponibilité 24/7",
+        "description": "Ne ratez jamais votre programme favori grâce à une disponibilité en continu, vous permettant de regarder ce que vous voulez, quand vous le voulez.",
+        "icon": "Clock"
+      },
+      {
+        "title": "Support Client Dédié",
+        "description": "Notre équipe d'assistance est prête à vous aider avec toute question ou problème, assurant une utilisation fluide de notre service.",
+        "icon": "Users"
+      },
+      {
+        "title": "Options de Paiement Flexibles",
+        "description": "Profitez de multiples options de paiement pour une expérience utilisateur simplifiée, adaptée à vos besoins et préférences.",
+        "icon": "CreditCard"
+      },
+      {
+        "title": "Mises à Jour Régulières",
+        "description": "Restez à jour avec les dernières fonctionnalités et améliorations apportées de façon continue, pour un service toujours à la pointe.",
+        "icon": "Settings"
+      }
+    ],
+    "paymentSettings": {
+      "buttonText": "BUY NOW",
+      "paymentType": "paygate",
+      "paygateWalletAddress": "0x1e2c390ae5602f3662332061cae6c5658cd54e22"
+    }
+  }
+]
